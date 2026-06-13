@@ -1,5 +1,3 @@
-# Assesment-1
-
 # Assesment-New-1
 
 Mobile Application Development – Assessment 01 project
