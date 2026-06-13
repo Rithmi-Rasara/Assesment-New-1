@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Assesment-1
 
 # Assesment-New-1
@@ -9,9 +8,6 @@ Mobile Application Development – Assessment 01 project
 
 
 Name: Rithmi Rasara 
-
-Name:Rithmi Rasara 
-
 Student ID: GAHDSE252F-001
 
 ## Project Overview
